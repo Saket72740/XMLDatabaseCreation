@@ -1,10 +1,2 @@
-install and import packages
-* sqlachemy
-* pymysql
-* xml.etree.ElementTree
-
-connection to the databases(localhost)
-* user
-* password
-* port number
-* local host ip
+sqlalchemy == 1.4.29
+pymysql == 1.0.2
