@@ -1,0 +1,10 @@
+install and import packages
+* sqlachemy
+* pymysql
+* xml.etree.ElementTree
+
+connection to the databases(localhost)
+* user
+* password
+* port number
+* local host ip
